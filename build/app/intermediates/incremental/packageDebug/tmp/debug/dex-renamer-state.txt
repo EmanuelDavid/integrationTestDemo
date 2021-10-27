@@ -1,0 +1,4 @@
+#Thu Feb 25 17:46:08 EET 2021
+base.0=/Users/davidcondrea/Desktop/Code/Practice/FlutterAppDemo/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
